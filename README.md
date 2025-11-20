@@ -1,16 +1,16 @@
-# 🎮 C Quiz Game
+ C Quiz Game
 
 A simple and interactive **C language quiz game** built using standard C.  
 The game asks 5 multiple-choice questions related to the C programming language and displays the final score based on the user’s answers.
 
 ---
 
-## 📌 Features
+ Features
 
-- 🧠 5 MCQ questions related to C programming  
-- ✔️ Instant correctness feedback  
+- 5 MCQ questions related to C programming  
+-  Instant correctness feedback  
 - 🏆 Score calculation  
-- 🔁 Simple command-line interface  
+- Simple command-line interface  
 - 🎉 Final performance message  
 
 ---

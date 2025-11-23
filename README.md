@@ -15,7 +15,7 @@ The game asks 5 multiple-choice questions related to the C programming language 
 
 ---
 
-## 📂 Project Structure
+# Project Structure
 
 ```
 ├── quiz.c        # Main source code for the quiz game
@@ -24,7 +24,7 @@ The game asks 5 multiple-choice questions related to the C programming language 
 
 ---
 
-## 🛠️ Technologies Used
+# Technologies Used
 
 - **C Programming Language**
 - **Standard I/O Library (stdio.h)**
@@ -32,27 +32,27 @@ The game asks 5 multiple-choice questions related to the C programming language 
 
 ---
 
-## 🚀 How to Run the Program
+## How to Run the Program
 
-### 1️⃣ Clone the Repository
+#1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 ```
 
-### 2️⃣ Compile the Program
+# 2. Compile the Program
 ```bash
 gcc quiz.c -o quiz
 ```
 
-### 3️⃣ Run the Game
+# 3.Run the Game
 ```bash
 ./quiz
 ```
 
 ---
 
-## 📘 How the Game Works
+# How the Game Works
 
 1. The player is given **5 questions**.  
 2. Each question contains **4 options (1–4)**.  
@@ -62,7 +62,7 @@ gcc quiz.c -o quiz
 
 ---
 
-## 🖼️ Sample Output
+# Sample Output
 
 ```
 =====================================
@@ -81,21 +81,23 @@ Rules:
    4) Bjarne Stroustrup
 Your answer: 2
 Correct!
+suppose you correct 4 question then your 
+score is :
 
-...
+
 Your Total Score: 4 / 5
 Good job! Keep practicing.
 ```
 
 ---
 
-## 🤝 Contributing
+# Contributing
 
 Feel free to submit issues or pull requests to improve the quiz!  
 Suggestions for new features or more questions are always welcome.
 
 ---
 
-## 📄 License
+# License
 
 This project is open-source and available under the **MIT License**.

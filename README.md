@@ -1,103 +1,107 @@
- C Quiz Game
 
-A simple and interactive **C language quiz game** built using standard C.  
-The game asks 5 multiple-choice questions related to the C programming language and displays the final score based on the user’s answers.
 
----
 
- Features
 
-- 5 MCQ questions related to C programming  
--  Instant correctness feedback  
-- 🏆 Score calculation  
-- Simple command-line interface  
-- 🎉 Final performance message  
+# Quiz Game in C
 
----
+This is a simple **C console-based Quiz Game** where the user answers multiple-choice questions.
+The game includes:
 
-# Project Structure
-
-```
-├── quiz.c        # Main source code for the quiz game
-└── README.md     # Documentation
-```
+* Score tracking
+* Multiple-choice questions
+*  A **50-50 lifeline** (available once)
+* User-friendly messages and formatting
 
 ---
 
-# Technologies Used
+##  Features
 
-- **C Programming Language**
-- **Standard I/O Library (stdio.h)**
-- **Standard Library (stdlib.h)**
+* **Three questions** covering basic programming and general knowledge.
+* **50-50 lifeline** for Question 2:
+  When the user presses **5**, two incorrect options are removed.
+* **Score counter** that displays the final result out of 3.
 
 ---
 
-## How to Run the Program
+##  How to Compile
 
-#1. Clone the Repository
+Use any C compiler (GCC recommended).
+
+### **Compile:**
+
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+gcc quiz_game.c -o quiz_game
 ```
 
-# 2. Compile the Program
-```bash
-gcc quiz.c -o quiz
-```
+### **Run:**
 
-# 3.Run the Game
 ```bash
-./quiz
+./quiz_game
 ```
 
 ---
 
-# How the Game Works
+##  Program Flow
 
-1. The player is given **5 questions**.  
-2. Each question contains **4 options (1–4)**.  
-3. The player types the number of their chosen answer.  
-4. Each correct answer = **1 point**.  
-5. A final score and performance message is displayed.
+1. User is asked multiple-choice questions.
+2. Inputs are taken using `scanf()`.
+3. Score increments for each correct answer.
+4. Lifeline can be used only **once** and only for Question 2.
+5. Final score is displayed at the end.
 
 ---
 
-# Sample Output
+##  Code Overview
+
+The program uses:
+
+* `if-else` conditions for answer checking
+* A variable `score` to track correct answers
+* A variable `lifeline_used` to ensure the lifeline is used only once
+* Standard I/O from `<stdio.h>`
+
+---
+
+## Sample Output
 
 ```
-=====================================
-      Welcome to the Quiz Game!
-=====================================
+===== WELCOME TO THE QUIZ GAME =====
 
-Rules:
--> There are 5 questions.
--> Each correct answer gives you 1 point.
--> Type the number (1-4) corresponding to your answer.
-
-1. Who is known as the father of the C language?
-   1) Steve Jobs
-   2) Dennis Ritchie
-   3) James Gosling
-   4) Bjarne Stroustrup
-Your answer: 2
+Q1. Who is the father of C language?
+1) Dennis Ritchie
+2) James Gosling
+3) Bjarne Stroustrup
+4) Ken Thompson
+Your answer: 1
 Correct!
-suppose you correct 4 question then your 
-score is :
+
+Q2. Which of the following is the capital of India?
+1) Mumbai
+2) Delhi
+3) Kolkata
+4) Chennai
+Press 5 to use lifeline (50-50)
+Your answer: 5
+
+LIFELINE ACTIVATED (50-50)!
+Remaining options:
+1) Delhi
+2) Mumbai
+Your answer: 1
+Correct!
+
+Q3. Which data type is used to store decimal values?
+1) int
+2) char
+3) float
+4) long
+Your answer: 3
+Correct!
+
+===== QUIZ FINISHED =====
+Your Total Score: 3 / 3
 
 
-Your Total Score: 4 / 5
-Good job! Keep practicing.
-```
+## Author
 
----
-
-# Contributing
-
-Feel free to submit issues or pull requests to improve the quiz!  
-Suggestions for new features or more questions are always welcome.
-
----
-
-# License
-
-This project is open-source and available under the **MIT License**.
+Created for learning purposes — feel free to modify and expand the game!

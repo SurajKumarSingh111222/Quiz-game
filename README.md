@@ -101,7 +101,8 @@ Correct!
 ===== QUIZ FINISHED =====
 Your Total Score: 3 / 3
 
+![Quiz Game Screenshot](https://raw.githubusercontent.com/SurajKumarSingh111222/Quiz-game/9f8a51cddec885291b92f0d17f29304b997d099f/WhatsApp%20Image%202025-11-25%20at%2019.48.41_864e83e7.jpg)
 
-<img width="665" height="560" alt="image" src="https://github.com/user-attachments/assets/803db583-2ed5-4beb-8808-b5aed130e341" />
+
 
 

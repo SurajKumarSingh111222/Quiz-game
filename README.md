@@ -67,8 +67,7 @@ The program uses:
 ```
 
 
-![Quiz Game Screenshot](https://raw.githubusercontent.com/SurajKumarSingh111222/Quiz-game/9f8a51cddec885291b92f0d17f29304b997d099f/WhatsApp%20Image%202025-11-25%20at%2019.48.41_864e83e7.jpg)
-
+https://github.com/SurajKumarSingh111222/Quiz-game/blob/656b482dae7697505001d553bceb1c4e04010122/WhatsApp%20Image%202025-11-25%20at%2019.48.41_864e83e7.jpg
 
 
 

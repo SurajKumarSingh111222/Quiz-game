@@ -64,7 +64,7 @@ The program uses:
 
 ## Sample Output
 
-```
+``
 ![Quiz Game Screenshot](https://raw.githubusercontent.com/SurajKumarSingh111222/Quiz-game/86fbc83cee74d96e81e437701071f8adf5fafbe2/WhatsApp%20Image%202025-11-25%20at%2019.48.41_cc1ac4b9.jpg)
 
 

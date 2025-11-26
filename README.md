@@ -105,4 +105,5 @@ Your Total Score: 3 / 3
 ## Author
 
 Created for learning purposes — feel free to modify and expand the game
+!(image alt)https://github.com/SurajKumarSingh111222/Quiz-game/blob/fcac5a6a78a0ce42e6a000c2ec0719824f417aca/WhatsApp%20Image%202025-11-25%20at%2019.48.41_864e83e7.jpg
 

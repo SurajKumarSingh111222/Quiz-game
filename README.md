@@ -65,44 +65,9 @@ The program uses:
 ## Sample Output
 
 ```
-===== WELCOME TO THE QUIZ GAME =====
 
-Q1. Who is the father of C language?
-1) Dennis Ritchie
-2) James Gosling
-3) Bjarne Stroustrup
-4) Ken Thompson
-Your answer: 1
-Correct!
-
-Q2. Which of the following is the capital of India?
-1) Mumbai
-2) Delhi
-3) Kolkata
-4) Chennai
-Press 5 to use lifeline (50-50)
-Your answer: 5
-
-LIFELINE ACTIVATED (50-50)!
-Remaining options:
-1) Delhi
-2) Mumbai
-Your answer: 1
-Correct!
-
-Q3. Which data type is used to store decimal values?
-1) int
-2) char
-3) float
-4) long
-Your answer: 3
-Correct!
-
-===== QUIZ FINISHED =====
-Your Total Score: 3 / 3
 
 ![Quiz Game Screenshot](https://raw.githubusercontent.com/SurajKumarSingh111222/Quiz-game/9f8a51cddec885291b92f0d17f29304b997d099f/WhatsApp%20Image%202025-11-25%20at%2019.48.41_864e83e7.jpg)
-
 
 
 

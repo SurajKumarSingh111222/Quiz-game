@@ -66,8 +66,6 @@ The program uses:
 
 ```
 
-
-![Quiz Game Screenshot](https://raw.githubusercontent.com/SurajKumarSingh111222/Quiz-game/9b786b9f6c4495333407f29ca583f4bf3078abea/WhatsApp%20Image%202025-11-25%20at%2019.48.41_cc1ac4b9.jpg)
-
+![WhatsApp Image 2025-11-25 at 19 48 41_cc1ac4b9](https://github.com/user-attachments/assets/57438783-b250-4cc0-a411-e7c655140f9d)
 
 

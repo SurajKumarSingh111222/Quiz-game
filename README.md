@@ -105,4 +105,5 @@ Your Total Score: 3 / 3
 ## Author
 
 Created for learning purposes — feel free to modify and expand the game!
-https://github.com/SurajKumarSingh111222/Quiz-game/blob/main/WhatsApp%20Image%202025-11-25%20at%2019.48.41_864e83e7.jpg
+![Quiz Game Screenshot](https://raw.githubusercontent.com/SurajKumarSingh111222/Quiz-game/059e29fb521585d148c00ff95bffad46b894fabd/WhatsApp%20Image%202025-11-25%20at%2019.48.41_864e83e7.jpg)
+
